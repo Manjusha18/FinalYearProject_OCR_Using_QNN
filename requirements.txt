@@ -1,0 +1,6 @@
+tensorflow==2.8.0
+pytesseract
+numpy
+pillow
+opencv-python
+streamlit
